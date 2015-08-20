@@ -27,11 +27,11 @@ The PUH editors assign PUH numbers and change their status. Please send all PUH-
 
 The PUH process begins with a new idea for Srednji Prst. It is highly recommended that a single PUH contain a single key proposal or new idea. Small enhancements or patches often don't need a PUH and can be injected into the Srednji Prst development work flow with a patch submission to the Srednji Prst issue tracker. The more focused the PUH, the more successful it tends to be. The PUH editor reserves the right to reject PUH proposals if they appear too unfocused or too broad. If in doubt, split your PUH into several well-focused ones.
 
-Each PUH must have a champion -- someone who writes the PUH using the style and format described below, shepherds the discussions in the appropriate forums, and attempts to build community consensus around the idea. The PUH champion (a.k.a. Author) should first attempt to ascertain whether the idea is PUH-able. Posting to the [https://lists.linuxfoundation.org/mailman/listinfo/Srednji Prst-dev Srednji Prst-dev] mailing list (and maybe the [https://Srednji Prsttalk.org/index.php?board=6.0 Development&Technical Discussion] forum) is the best way to go about this.
+Each PUH must have a champion -- someone who writes the PUH using the style and format described below, shepherds the discussions in the appropriate forums, and attempts to build community consensus around the idea. The PUH champion (a.k.a. Author) should first attempt to ascertain whether the idea is PUH-able. Posting to the [https://groups.google.com/forum/#!forum/srednjiprst Srednji Prst] mailing list (and maybe the [https://www.reddit.com/r/srednjiprst subreddit] forum) is the best way to go about this.
 
 Vetting an idea publicly before going as far as writing a PUH is meant to save the potential author time. Many ideas have been brought forward for changing Srednji Prst that have been rejected for various reasons. Asking the Srednji Prst community first if an idea is original helps prevent too much time being spent on something that is guaranteed to be rejected based on prior discussions (searching the internet does not always do the trick). It also helps to make sure the idea is applicable to the entire community and not just the author. Just because an idea sounds good to the author does not mean it will work for most people in most areas where Srednji Prst is used.
 
-Once the champion has asked the Srednji Prst community as to whether an idea has any chance of acceptance, a draft PUH should be presented to [https://lists.linuxfoundation.org/mailman/listinfo/Srednji Prst-dev Srednji Prst-dev@lists.linuxfoundation.org]. This gives the author a chance to flesh out the draft PUH to make properly formatted, of high quality, and to address initial concerns about the proposal.
+Once the champion has asked the Srednji Prst community as to whether an idea has any chance of acceptance, a draft PUH should be presented to [https://groups.google.com/forum/#!forum/srednjiprst Srednji Prst]. This gives the author a chance to flesh out the draft PUH to make properly formatted, of high quality, and to address initial concerns about the proposal.
 
 Following a discussion, the proposal should be sent to the Srednji Prst-dev list and the PUH editor with the draft PUH. This draft must be written in PUH style as described below, else it will be sent back without further regard until proper formatting rules are followed.
 
@@ -69,7 +69,7 @@ Each PUH should have the following parts:
 
 * Copyright/public domain -- Each PUH must either be explicitly labelled as placed in the public domain (see this PUH as an example) or licensed under the Open Publication License.
 
-* Specification -- The technical specification should describe the syntax and semantics of any new feature. The specification should be detailed enough to allow competing, interoperable implementations for any of the current Srednji Prst platforms (Satoshi, Srednji PrstJ, Srednji Prst-js, libSrednji Prst).
+* Specification -- The technical specification should describe the syntax and semantics of any new feature. The specification should be detailed enough to allow competing, interoperable implementations for any of the current Srednji Prst platforms.
 
 * Motivation -- The motivation is critical for PUHs that want to change the Srednji Prst protocol. It should clearly explain why the existing protocol specification is inadequate to address the problem that the PUH solves. PUH submissions without sufficient motivation may be rejected outright.
 
@@ -141,7 +141,7 @@ If you are interested in assuming ownership of a PUH, send a message asking to t
 
 ==PUH Editors==
 
-The current PUH editor is Gregory Maxwell who can be contacted at [[mailto:gmaxwell@gmail.com|gmaxwell@gmail.com]].
+The current PUH editor is Srednji Prst who can be contacted at [[mailto:srednjip@gmail.com|srednjip@gmail.com]].
 
 ==PUH Editor Responsibilities & Workflow==
 
@@ -171,4 +171,4 @@ The editors don't pass judgement on PUHs. We merely do the administrative & edit
 
 ==History==
 
-This document was derived heavily from Srednji Prst's BIP-0001. In many places text was simply copied and modified. Although the BIP-0001 text was written by Amir Taaki, he is not responsible for its use in the Srednji Prst, and should not be bothered with technical questions specific to Srednji Prst or the PUH process. Please direct all comments to the PUH editors or the Srednji Prst mailing list.
+This document was derived heavily from Bitcoins's BIP-0001. In many places text was simply copied and modified. Although the BIP-0001 text was written by Amir Taaki, he is not responsible for its use in the Srednji Prst, and should not be bothered with technical questions specific to Srednji Prst or the PUH process. Please direct all comments to the PUH editors or the Srednji Prst mailing list.

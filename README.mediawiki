@@ -1,4 +1,4 @@
-# SrednjiPrst
+== SrednjiPrst ==
 
 People wishing to submit PUHs, first should propose their idea or document to the [mailing list](https://groups.google.com/forum/#!forum/srednjiprst). After discussion they should email Srednji Prst &lt;srednjip@gmail.com&gt;. After copy-editing and acceptance, it will be published here.
 
